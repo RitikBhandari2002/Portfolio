@@ -374,27 +374,6 @@ header .navbar ul li a:hover{
     z-index: 100;
     display: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* media queries  */
-
 @media (max-width:1200px){
 
     html{
